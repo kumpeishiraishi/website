@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/kumpeishiraishi/kumpeishiraishi.github.io.git
+[submodule "themes/minimal-bootstrap-hugo-theme"]
+	path = themes/minimal-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
