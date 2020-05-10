@@ -6,7 +6,7 @@ hugo
 cd public
 git add .
 
-msg="building mysite `date`"
+msg="Add infos `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi

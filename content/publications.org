@@ -1,3 +1,8 @@
 #+title: List of publications
 
-Hello world (publications)
+1. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
+   Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+   [[[https://arxiv.org/abs/2005.02598][arXiv:2005.02598]]]
+2. [[https://doi.org/10.1103/PhysRevE.100.012606][Vibrational properties of two-dimensional dimer packings near the jamming transition]]\\
+   Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+   Physical Review E *100*, 012606 (2019) [[[https://arxiv.org/abs/1905.02966][arXiv:1905.02966]]]
