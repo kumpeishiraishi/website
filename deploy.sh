@@ -6,7 +6,7 @@ hugo
 cd public
 git add .
 
-msg="Add infos `date`"
+msg="Add publication"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
