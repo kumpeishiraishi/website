@@ -3,4 +3,4 @@
 	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
 [submodule "public"]
 	path = public
-	url = https://github.com/kumpeishiraishi/kumpeishiraishi.github.io
+	url = git@github.com:kumpeishiraishi/kumpeishiraishi.github.io.git

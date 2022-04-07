@@ -24,8 +24,9 @@ Graduate School of Arts and Sciences, University of Tokyo, Japan
 # #+html: </div>
 
 * Research interests
-- Vibrational and thermal properties of amorphous solids
 - Relaxation dynamics near the glass transition
+- Energy landscapes
+- Vibrational properties of amorphous solids
 
 * CV
 - Apr 2020 -- , Ph.D. student \\
