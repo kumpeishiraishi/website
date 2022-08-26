@@ -3,13 +3,13 @@
 # #+html: <div class="container">
 # #+html: <div class="row">
 # #+html: <div class="col-sm-3">
-#
+
 # #+attr_html: :style float:left; margin:0px 0px 20px 0px;
 # #+attr_html: :width 200px
 # #+attr_html: :alt   Portrait
 # #+attr_html: :title Me
 # file:/img/me0.jpg
-#
+
 # #+html: </div>
 # #+html: <div class="col-sm-9">
 

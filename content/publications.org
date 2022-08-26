@@ -2,11 +2,15 @@
 
 Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]]
 
-1. Instantaneous normal modes of a glass-forming liquid during the relaxation process [[[https://arxiv.org/abs/2111.11681][arXiv]]]\\
-   Masanari Shimada, Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda
-2. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]\\
+1. Low-Frequency Vibrational States in Ideal Glasses with Random Pinning\\
+   Kumpei Shiraishi, Yusuke Hara, Hideyuki Mizuno\\
+   [[[https://arxiv.org/abs/2208.11899][arXiv]]]
+2. Instantaneous normal modes of a glass-forming liquid during the relaxation process\\
+   Masanari Shimada, Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+   [[[https://arxiv.org/abs/2111.11681][arXiv]]]
+3. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   Journal of the Physical Society of Japan *89*, 074603 (2020)
-3. Vibrational properties of two-dimensional dimer packings near the jamming transition [[[https://doi.org/10.1103/PhysRevE.100.012606][DOI]]] [[[https://arxiv.org/abs/1905.02966][arXiv]]]\\
+   Journal of the Physical Society of Japan *89*, 074603 (2020) [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]
+4. Vibrational properties of two-dimensional dimer packings near the jamming transition\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   Physical Review E *100*, 012606 (2019)
+   Physical Review E *100*, 012606 (2019) [[[https://doi.org/10.1103/PhysRevE.100.012606][DOI]]] [[[https://arxiv.org/abs/1905.02966][arXiv]]]
