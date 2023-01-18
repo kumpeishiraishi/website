@@ -13,7 +13,7 @@ fi
 git commit -m "$msg"
 
 # push to public repository
-git push origin master
+git push origin HEAD:master
 
 # push to source repository
 cd ..
