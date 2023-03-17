@@ -26,9 +26,11 @@ Graduate School of Arts and Sciences, University of Tokyo, Japan
 * Research interests
 - Relaxation dynamics near the glass transition
 - Energy landscapes
+- Efficient sampling
 - Vibrational properties of amorphous solids
+- High-performance computing
 
 * CV
-- Apr 2020 -- , Ph.D. student \\
-  Graduate School of Arts and Sciences, University of Tokyo, Japan \\
+- Apr 2020 --, Ph.D. student\\
+  Graduate School of Arts and Sciences, University of Tokyo, Japan\\
   Supervisor: Prof. Atsushi Ikeda

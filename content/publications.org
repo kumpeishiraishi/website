@@ -1,6 +1,6 @@
 #+title: List of publications
 
-Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]]
+Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.google.com/citations?user=eBq-iXgAAAAJ][Google Scholar]]
 
 1. #+html: <p>
    Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
