@@ -26,9 +26,9 @@ Graduate School of Arts and Sciences, University of Tokyo, Japan
 * Research interests
 - Relaxation dynamics near the glass transition
 - Energy landscapes
-- Efficient sampling
+- Efficient sampling methods
 - Vibrational properties of amorphous solids
-- High-performance computing
+- High-performance computing, efficient implementation of molecular dynamics
 
 * CV
 - Apr 2020 --, Ph.D. student\\
