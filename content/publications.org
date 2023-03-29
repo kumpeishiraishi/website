@@ -10,7 +10,7 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
 2. #+html: <p>
    Johari-Goldstein $\beta$ relaxation in glassy dynamics originates from two-scale energy landscape\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   [[[https://arxiv.org/abs/2209.01726][arXiv]]]
+   Proceedings of the National Academy of Sciences of the United States of America *120*, e2215153120 (2023) [[[https://doi.org/10.1073/pnas.2215153120][DOI]]] [[[https://arxiv.org/abs/2209.01726][arXiv]]]
    #+html: </p>
 3. #+html: <p>
    Low-frequency vibrational states in ideal glasses with random pinning\\
