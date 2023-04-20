@@ -13,11 +13,11 @@
 # #+html: </div>
 # #+html: <div class="col-sm-9">
 
-Ph.D. student
+Postdoc (JSPS Overseas Research Fellow)
 
-Graduate School of Arts and Sciences, University of Tokyo, Japan
+Laboratoire Charles Coulomb, University of Montpellier, France
 
-[[mailto:kumpeishiraishi@g.ecc.u-tokyo.ac.jp][kumpeishiraishi@g.ecc.u-tokyo.ac.jp]]
+[[mailto:kumpei.shiraishi@umontpellier.fr][kumpei.shiraishi@umontpellier.fr]]
 
 # #+html: </div>
 # #+html: </div>
@@ -31,6 +31,9 @@ Graduate School of Arts and Sciences, University of Tokyo, Japan
 - High-performance computing, efficient implementation of molecular dynamics
 
 * CV
-- Apr 2020 --, Ph.D. student\\
+- Apr 2023 --, Postdoc (JSPS Overseas Research Fellow)\\
+  Laboratoire Charles Coulomb, University of Montpellier, France\\
+  Advisor: Prof. Ludovic Berthier
+- Apr 2020 -- Mar 2023, Ph.D. student\\
   Graduate School of Arts and Sciences, University of Tokyo, Japan\\
   Supervisor: Prof. Atsushi Ikeda
