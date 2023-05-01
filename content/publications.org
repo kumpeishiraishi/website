@@ -5,7 +5,7 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
 1. #+html: <p>
    Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   [[[https://arxiv.org/abs/2301.06225][arXiv]]]
+   The Journal of Chemical Physics *158*, 174502 (2023) [[[https://doi.org/10.1063/5.0142648][DOI]]] [[[https://arxiv.org/abs/2301.06225][arXiv]]]
    #+html: </p>
 2. #+html: <p>
    Johari-Goldstein $\beta$ relaxation in glassy dynamics originates from two-scale energy landscape\\
