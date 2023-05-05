@@ -3,7 +3,7 @@ title = "Kumpei Shiraishi"
 theme = "minimal-bootstrap-hugo-theme"
 
 [params]
-  description = "Ph.D. student in physics"
+  description = "Postdoc in physics"
   contentBackgroundColor = "#F4F5F7"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
