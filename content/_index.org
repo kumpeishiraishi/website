@@ -22,6 +22,7 @@
 # #+html: </div>
 
 * Research interests
+#+ATTR_HTML: :class nospace-list
 - Relaxation dynamics near the glass transition
 - Energy landscapes
 - Efficient sampling methods
