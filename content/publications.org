@@ -2,33 +2,21 @@
 
 Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.google.com/citations?user=eBq-iXgAAAAJ][Google Scholar]]
 
-1. #+html: <p>
-   Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
+1. Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    The Journal of Chemical Physics *158*, 174502 (2023) [[[https://doi.org/10.1063/5.0142648][DOI]]] [[[https://arxiv.org/abs/2301.06225][arXiv]]]
-   #+html: </p>
-2. #+html: <p>
-   Johari-Goldstein $\beta$ relaxation in glassy dynamics originates from two-scale energy landscape\\
+2. Johari-Goldstein $\beta$ relaxation in glassy dynamics originates from two-scale energy landscape\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Proceedings of the National Academy of Sciences of the United States of America *120*, e2215153120 (2023) [[[https://doi.org/10.1073/pnas.2215153120][DOI]]] [[[https://arxiv.org/abs/2209.01726][arXiv]]]
-   #+html: </p>
-3. #+html: <p>
-   Low-frequency vibrational states in ideal glasses with random pinning\\
+3. Low-frequency vibrational states in ideal glasses with random pinning\\
    Kumpei Shiraishi, Yusuke Hara, Hideyuki Mizuno\\
    Physical Review E *106*, 054611 (2022) [[[https://doi.org/10.1103/PhysRevE.106.054611][DOI]]] [[[https://arxiv.org/abs/2208.11899][arXiv]]]
-   #+html: </p>
-4. #+html: <p>
-   Instantaneous normal modes of a glass-forming liquid during the relaxation process\\
+4. Instantaneous normal modes of a glass-forming liquid during the relaxation process\\
    Masanari Shimada, Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    [[[https://arxiv.org/abs/2111.11681][arXiv]]]
-   #+html: </p>
-5. #+html: <p>
-   Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
+5. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Journal of the Physical Society of Japan *89*, 074603 (2020) [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]
-   #+html: </p>
-6. #+html: <p>
-   Vibrational properties of two-dimensional dimer packings near the jamming transition\\
+6. Vibrational properties of two-dimensional dimer packings near the jamming transition\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Physical Review E *100*, 012606 (2019) [[[https://doi.org/10.1103/PhysRevE.100.012606][DOI]]] [[[https://arxiv.org/abs/1905.02966][arXiv]]]
-   #+html: </p>
