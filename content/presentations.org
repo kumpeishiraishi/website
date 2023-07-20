@@ -1,6 +1,13 @@
 #+title: List of presentations
 
 * 2023
+- Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
+  Kumpei Shiraishi\\
+  [[https://9idmrcs.jp][9IDMRCS]], Makuhari Messe, Chiba, Japan (17 Aug 2023)\\
+  Invited talk
+- Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
+  Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+  [[https://statphys28.org][Statphys28]], T4-10C-03, University of Tokyo, Hongo campus, Japan / Online (10 Aug 2023)
 - ガラス振動研究におけるランダムピニング法の有効性\\
   白石薫平、原雄介、池田昌司、水野英如\\
   日本物理学会2023年春季大会、23aL3-7、オンライン（2023年3月23日）
