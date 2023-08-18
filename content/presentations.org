@@ -2,8 +2,8 @@
 
 * 2023
 - Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
-  Kumpei Shiraishi\\
-  [[https://9idmrcs.jp][9IDMRCS]], Makuhari Messe, Chiba, Japan (17 Aug 2023)\\
+  Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+  [[https://9idmrcs.jp][9IDMRCS]], R-BR 2-5, Makuhari Messe, Chiba, Japan (17 Aug 2023)\\
   Invited talk
 - Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
   Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
