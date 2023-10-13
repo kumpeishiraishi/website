@@ -24,7 +24,7 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [menu]
   [[menu.nav]]
-  name = "Home"
+  name = "Kumpei Shiraishi"
   url = "/"
   weight = 1
   [[menu.nav]]

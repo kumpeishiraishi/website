@@ -1,4 +1,4 @@
-#+title: Kumpei Shiraishi（白石 薫平）
+#+title: *Kumpei Shiraishi*
 
 # #+html: <div class="container">
 # #+html: <div class="row">
@@ -21,20 +21,15 @@
 # #+html: </div>
 # #+html: </div>
 
-* Research interests
+** Research interests
 #+ATTR_HTML: :class nospace-list
 - Relaxation dynamics near the glass transition
 - Energy landscapes
 - Efficient sampling methods
 - Vibrational properties of amorphous solids
-- High-performance computing, efficient implementation of molecular dynamics
+- High-performance computing, efficient implementation of molecular simulations
 
-* CV
-- Apr 2023 --, Postdoc (JSPS Overseas Research Fellow)\\
-  Laboratoire Charles Coulomb, University of Montpellier, France\\
-  Supervisor: Prof. Ludovic Berthier\\
-  2023年4月 -- 現在 フランス モンペリエ大学 シャルル・クーロン研究所（日本学術振興会 海外特別研究員）
-- Apr 2020 -- Mar 2023, Ph.D. student\\
-  Graduate School of Arts and Sciences, University of Tokyo, Japan\\
-  Supervisor: Prof. Atsushi Ikeda\\
-  2020年4月 -- 2023年3月 東京大学 大学院総合文化研究科 広域科学専攻 相関基礎科学系 博士課程
+** CV
+#+ATTR_HTML: :class nospace-list
+- Postdoc with Prof. Ludovic Berthier at Univ. Montpellier, France (2023 -- )
+- PhD student with Prof. Atsushi Ikeda at Univ. Tokyo, Japan (2020 -- 2023)
