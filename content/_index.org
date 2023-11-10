@@ -31,5 +31,5 @@
 
 ** CV
 #+ATTR_HTML: :class nospace-list
-- Postdoc with Prof. Ludovic Berthier at Univ. Montpellier, France (2023 -- )
-- PhD student with Prof. Atsushi Ikeda at Univ. Tokyo, Japan (2020 -- 2023)
+- 2023 -- : Postdoc with Prof. Ludovic Berthier at Univ. Montpellier, France
+- 2020 -- 2023: PhD student with Prof. Atsushi Ikeda at Univ. Tokyo, Japan

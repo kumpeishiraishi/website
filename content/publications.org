@@ -10,7 +10,7 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
    The Journal of Chemical Physics *158*, 174502 (2023) [[[https://doi.org/10.1063/5.0142648][DOI]]] [[[https://arxiv.org/abs/2301.06225][arXiv]]]
 3. Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   Proceedings of the National Academy of Sciences of the United States of America *120*, e2215153120 (2023) [[[https://doi.org/10.1073/pnas.2215153120][DOI]]] [[[https://arxiv.org/abs/2209.01726][arXiv]]]
+   Proceedings of the National Academy of Sciences *120*, e2215153120 (2023) [[[https://doi.org/10.1073/pnas.2215153120][DOI]]] [[[https://arxiv.org/abs/2209.01726][arXiv]]]
 4. Low-frequency vibrational states in ideal glasses with random pinning\\
    Kumpei Shiraishi, Yusuke Hara, Hideyuki Mizuno\\
    Physical Review E *106*, 054611 (2022) [[[https://doi.org/10.1103/PhysRevE.106.054611][DOI]]] [[[https://arxiv.org/abs/2208.11899][arXiv]]]
