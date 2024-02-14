@@ -14,9 +14,9 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
 4. Low-frequency vibrational states in ideal glasses with random pinning\\
    Kumpei Shiraishi, Yusuke Hara, Hideyuki Mizuno\\
    Physical Review E *106*, 054611 (2022) [[[https://doi.org/10.1103/PhysRevE.106.054611][DOI]]] [[[https://arxiv.org/abs/2208.11899][arXiv]]]
-5. Instantaneous normal modes of a glass-forming liquid during the relaxation process\\
+5. Instantaneous normal modes of glass-forming liquids during the athermal relaxation process of the steepest descent algorithm\\
    Masanari Shimada, Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   [[[https://arxiv.org/abs/2111.11681][arXiv]]]
+   Soft Matter *20*, 1583 (2024) [[[https://doi.org/10.1039/D3SM01104F][DOI]]] [[[https://arxiv.org/abs/2111.11681][arXiv]]]
 6. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Journal of the Physical Society of Japan *89*, 074603 (2020) [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]
