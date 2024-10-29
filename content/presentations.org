@@ -1,5 +1,10 @@
 #+title: List of presentations
 
+* 2024
+- How do relaxations proceed in swap Monte Carlo dynamics?\\
+  Kumpei Shiraishi\\
+  [[https://jmc2024.sciencesconf.org][Les Journées de la Matière Condensée 2024]], Université d'Aix-Marseille, France (29 Oct 2024)
+
 * 2023
 - Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
   Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
