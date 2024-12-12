@@ -2,9 +2,9 @@
 
 Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.google.com/citations?user=eBq-iXgAAAAJ][Google Scholar]]
 
-1. Characterising the slow dynamics of the swap Monte Carlo algorithm\\
+1. Characterizing the Slow Dynamics of the Swap Monte Carlo Algorithm\\
    Kumpei Shiraishi, Ludovic Berthier\\
-   [[[https://arxiv.org/abs/2409.13369][arXiv]]]
+   The Journal of Physical Chemistry B *128*, 12279 (2024) [[[https://doi.org/10.1021/acs.jpcb.4c06702][DOI]]] [[[https://arxiv.org/abs/2409.13369][arXiv]]]
 2. Particle pinning as a method to manipulate marginal stability\\
    Kumpei Shiraishi, Yusuke Hara\\
    [[[https://arxiv.org/abs/2310.01919][arXiv]]]
