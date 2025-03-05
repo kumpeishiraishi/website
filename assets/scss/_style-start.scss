@@ -1,0 +1,35 @@
+$body-max-width: 960px;
+
+$background-color-light: #f4f4f4;
+$background-color1-light: #3c3836;
+$foreground-color-light: #3c3836;
+$foreground-color3-light: #665c54;
+$accent-color-light: #af3a03;
+
+$background-color-dark: #282828;
+$background-color1-dark: #3c3836;
+$foreground-color-dark: #ebdbb2;
+$foreground-color3-dark: #bdae93;
+$accent-color-dark: #fe8019;
+
+ul li {
+  margin-bottom: 16px;
+}
+
+.nospace-list>li {
+    margin-bottom : 0px;
+}
+
+ol li:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.container {
+    display: flex;
+}
+.column {
+    flex: 1;
+}
+.photo-column {
+    margin-left: auto;
+}

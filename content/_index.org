@@ -1,35 +1,30 @@
-#+title: *Kumpei Shiraishi*
+#+title: Kumpei Shiraishi
 
 # #+html: <div class="container">
-# #+html: <div class="row">
-# #+html: <div class="col-sm-3">
-
-# #+attr_html: :style float:left; margin:0px 0px 20px 0px;
-# #+attr_html: :width 200px
-# #+attr_html: :alt   Portrait
-# #+attr_html: :title Me
-# file:/img/me0.jpg
-
-# #+html: </div>
-# #+html: <div class="col-sm-9">
-
+# #+html: <div class="column">
 - Position :: Postdoc (JSPS Overseas Research Fellow)
 - Affiliation :: Laboratoire Charles Coulomb, University of Montpellier, France
 - Email :: [[mailto:kumpei.shiraishi@umontpellier.fr][kumpei.shiraishi@umontpellier.fr]]
-
 # #+html: </div>
+
+# #+html: <div class="photo-column">
+# #+attr_html: :width 200px
+# #+attr_html: :alt   My photo
+# #+attr_html: :title À XXX
+# [[file:/image/me.jpg]]
 # #+html: </div>
 # #+html: </div>
 
 ** Research interests
 #+ATTR_HTML: :class nospace-list
+- Amorphous solids
 - Relaxation dynamics near the glass transition
-- Energy landscapes
 - Efficient sampling methods
-- Vibrational properties of amorphous solids
+- Energy landscapes
 - High-performance computing, efficient implementation of molecular simulations
 
 ** CV
 #+ATTR_HTML: :class nospace-list
-- 2023 -- : Postdoc with Prof. Ludovic Berthier at Univ. Montpellier, France
-- 2020 -- 2023: PhD student with Prof. Atsushi Ikeda at Univ. Tokyo, Japan
+- 2025 -- present: Assistant professor at Osaka University, Japan
+- 2023 -- 2025: JSPS Overseas Research Fellow at University of Montpellier, France
+- 2020 -- 2023: PhD student at University of Tokyo, Japan

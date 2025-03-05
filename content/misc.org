@@ -1,0 +1,13 @@
+#+title: 備忘録
+
+シミュレーションや計算機の使い方などのメモです。
+
+- [[https://gist.github.com/kumpeishiraishi/1a0f3932adbc4044a152699c07dd4fc9][粒子系シミュレーションにおける高速化のメモ]]\\
+  粒子系のMD/MCシミュレーションを実装し、高速化していく手順の個人的覚書。短距離相互作用限定。ループアンロールやSIMD化の詳細は、慶應大学・[[https://www.calc.appi.keio.ac.jp][渡辺宙志先生]]がお書きになった資料へのリンクで代えています。
+- [[https://gist.github.com/kumpeishiraishi/ee23f1071ae93ee74b892b0e1012b289][モンテカルロ法の軌道の解析について私が知っている二、三の事柄]]\\
+  粒子系のモンテカルロ法の実装と、得られた軌道から緩和ダイナミクスを計算するときに気をつけるべき点のメモ。
+- [[https://gist.github.com/kumpeishiraishi/d8ad82c08b0d302ad6023343724bbe42][Eigenで実対称行列の固有値を計算する]]\\
+  C++のライブラリ[[https://eigen.tuxfamily.org][Eigen]]を使って、実対称行列（密行列）の固有値・固有ベクトルを計算するコード。高速化のため、バックエンドにIntel MKLやOpenBLASを使ってコンパイルする方法も書いた。
+# - Eigenで疎行列を扱う
+# - 過冷却液体の平衡化
+# - rsqrt
