@@ -2,18 +2,31 @@
 
 # #+html: <div class="container">
 # #+html: <div class="column">
-- Position :: Postdoc (JSPS Overseas Research Fellow)
-- Affiliation :: Laboratoire Charles Coulomb, University of Montpellier, France
-- Email :: [[mailto:kumpei.shiraishi@umontpellier.fr][kumpei.shiraishi@umontpellier.fr]]
+- Position :: Assistant professor
+- Affiliation :: Institute of Scientific and Industrial Research (SANKEN), Osaka University, Japan
+- Email :: [[mailto:kumpei.shiraishi@sanken.osaka-u.ac.jp][kumpei.shiraishi@sanken.osaka-u.ac.jp]]
 # #+html: </div>
 
 # #+html: <div class="photo-column">
+
 # #+attr_html: :width 200px
 # #+attr_html: :alt   My photo
-# #+attr_html: :title À XXX
+# #+attr_html: :id    randomImage
 # [[file:/image/me.jpg]]
+
 # #+html: </div>
 # #+html: </div>
+
+# #+html: <script>
+# #+html: const imageData = [
+# #+html:     { src: "/image/me.jpg", title: "Title for me.jpg" },
+# #+html:     { src: "/image/me2.jpg", title: "Title for me2.jpg" }
+# #+html: ];
+# #+html: const randomIndex = Math.floor(Math.random() * imageData.length);
+# #+html: const selectedImage = imageData[randomIndex];
+# #+html: document.getElementById("randomImage").src = selectedImage.src;
+# #+html: document.getElementById("randomImage").title = selectedImage.title;
+# #+html: </script>
 
 ** Research interests
 #+ATTR_HTML: :class nospace-list
