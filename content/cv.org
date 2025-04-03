@@ -1,7 +1,7 @@
 #+title: CV
 
 - Apr 2025 -- present, Assistant professor\\
-  Institute of Scientific and Industrial Research (SANKEN), Osaka University, Japan\\
+  Institute of Scientific and Industrial Research (SANKEN), University of Osaka, Japan\\
   Group leader: Prof. Emi Minamitani\\
   2025年4月 -- 現在 大阪大学 産業科学研究所 助教
 - Apr 2023 -- Mar 2025, JSPS Overseas Research Fellow\\

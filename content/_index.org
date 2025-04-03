@@ -3,7 +3,7 @@
 # #+html: <div class="container">
 # #+html: <div class="column">
 - Position :: Assistant professor
-- Affiliation :: Institute of Scientific and Industrial Research (SANKEN), Osaka University, Japan
+- Affiliation :: Institute of Scientific and Industrial Research (SANKEN), University of Osaka, Japan
 - Email :: [[mailto:kumpei.shiraishi@sanken.osaka-u.ac.jp][kumpei.shiraishi@sanken.osaka-u.ac.jp]]
 # #+html: </div>
 
@@ -38,6 +38,6 @@
 
 ** CV
 #+ATTR_HTML: :class nospace-list
-- 2025 -- present: Assistant professor at Osaka University, Japan
+- 2025 -- present: Assistant professor at University of Osaka, Japan
 - 2023 -- 2025: JSPS Overseas Research Fellow at University of Montpellier, France
 - 2020 -- 2023: PhD student at University of Tokyo, Japan
