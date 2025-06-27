@@ -8,6 +8,9 @@
   粒子系のモンテカルロ法の実装と、得られた軌道から緩和ダイナミクスを計算するときに気をつけるべき点のメモ。
 - [[https://gist.github.com/kumpeishiraishi/d8ad82c08b0d302ad6023343724bbe42][Eigenで実対称行列の固有値を計算する]]\\
   C++のライブラリ[[https://eigen.tuxfamily.org][Eigen]]を使って、実対称行列（密行列）の固有値・固有ベクトルを計算するコード。高速化のため、バックエンドにIntel MKLやOpenBLASを使ってコンパイルする方法も書いた。
+- [[https://kumpeishiraishi.github.io/MD_for_pedestrians/NVE][速度ベルレ法の導入]]\\
+  これからMDを使う4年生に向けて、研究室内で話した内容のノート。
+- [[https://kumpeishiraishi.github.io/MD_for_pedestrians/cheatsheet][分子動力学法の各種時間発展アルゴリズムのチートシート]]
 # - Eigenで疎行列を扱う
 # - 過冷却液体の平衡化
 # - rsqrt
