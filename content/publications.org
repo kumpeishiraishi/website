@@ -10,7 +10,7 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
    The Journal of Physical Chemistry B *128*, 12279 (2024) [[[https://doi.org/10.1021/acs.jpcb.4c06702][DOI]]] [[[https://arxiv.org/abs/2409.13369][arXiv]]]
 3. Particle pinning as a method to manipulate marginal stability\\
    Kumpei Shiraishi, Yusuke Hara\\
-   Soft Matter *21*, 1583 (2025) [[[https://doi.org/10.1039/D5SM00898K][DOI]]] [[[https://arxiv.org/abs/2310.01919][arXiv]]]
+   Soft Matter *21*, 8824 (2025) [[[https://doi.org/10.1039/D5SM00898K][DOI]]] [[[https://arxiv.org/abs/2310.01919][arXiv]]]
 4. Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    The Journal of Chemical Physics *158*, 174502 (2023) [[[https://doi.org/10.1063/5.0142648][DOI]]] [[[https://arxiv.org/abs/2301.06225][arXiv]]]
