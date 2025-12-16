@@ -2,33 +2,36 @@
 
 Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.google.com/citations?user=eBq-iXgAAAAJ][Google Scholar]]
 
-1. Critical fluctuations of elastic moduli in jammed solids\\
+1. Topological descriptor for interpretable thermal transport prediction in amorphous graphene\\
+   Kosuke Yamazaki, Takuma Shiga, Kumpei Shiraishi, Emi Minamitani\\
+   [[[https://arxiv.org/abs/2512.13112][arXiv]]]
+2. Critical fluctuations of elastic moduli in jammed solids\\
    Kumpei Shiraishi, Hideyuki Mizuno\\
    [[[https://arxiv.org/abs/2512.03407][arXiv]]]
-2. Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model\\
+3. Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model\\
    Kumpei Shiraishi, Emi Minamitani, Kang Kim\\
    [[[https://arxiv.org/abs/2509.12837][arXiv]]]
-3. Characterizing the Slow Dynamics of the Swap Monte Carlo Algorithm\\
+4. Characterizing the Slow Dynamics of the Swap Monte Carlo Algorithm\\
    Kumpei Shiraishi, Ludovic Berthier\\
    The Journal of Physical Chemistry B *128*, 12279 (2024) [[[https://doi.org/10.1021/acs.jpcb.4c06702][DOI]]] [[[https://arxiv.org/abs/2409.13369][arXiv]]]
-4. Particle pinning as a method to manipulate marginal stability\\
+5. Particle pinning as a method to manipulate marginal stability\\
    Kumpei Shiraishi, Yusuke Hara\\
    Soft Matter *21*, 8824 (2025) [[[https://doi.org/10.1039/D5SM00898K][DOI]]] [[[https://arxiv.org/abs/2310.01919][arXiv]]]
-5. Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
+6. Non-phononic density of states of two-dimensional glasses revealed by random pinning\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    The Journal of Chemical Physics *158*, 174502 (2023) [[[https://doi.org/10.1063/5.0142648][DOI]]] [[[https://arxiv.org/abs/2301.06225][arXiv]]]
-6. Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
+7. Johari-Goldstein β relaxation in glassy dynamics originates from two-scale energy landscape\\
    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Proceedings of the National Academy of Sciences *120*, e2215153120 (2023) [[[https://doi.org/10.1073/pnas.2215153120][DOI]]] [[[https://arxiv.org/abs/2209.01726][arXiv]]]
-7. Low-frequency vibrational states in ideal glasses with random pinning\\
+8. Low-frequency vibrational states in ideal glasses with random pinning\\
    Kumpei Shiraishi, Yusuke Hara, Hideyuki Mizuno\\
    Physical Review E *106*, 054611 (2022) [[[https://doi.org/10.1103/PhysRevE.106.054611][DOI]]] [[[https://arxiv.org/abs/2208.11899][arXiv]]]
-8. Instantaneous normal modes of glass-forming liquids during the athermal relaxation process of the steepest descent algorithm\\
+9. Instantaneous normal modes of glass-forming liquids during the athermal relaxation process of the steepest descent algorithm\\
    Masanari Shimada, Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
    Soft Matter *20*, 1583 (2024) [[[https://doi.org/10.1039/D3SM01104F][DOI]]] [[[https://arxiv.org/abs/2111.11681][arXiv]]]
-9. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
-   Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
-   Journal of the Physical Society of Japan *89*, 074603 (2020) [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]
-10. Vibrational properties of two-dimensional dimer packings near the jamming transition\\
+10. Mechanical and Vibrational Properties of Three-Dimensional Dimer Packings Near the Jamming Transition\\
+    Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
+    Journal of the Physical Society of Japan *89*, 074603 (2020) [[[https://doi.org/10.7566/JPSJ.89.074603][DOI]]] [[[https://arxiv.org/abs/2005.02598][arXiv]]]
+11. Vibrational properties of two-dimensional dimer packings near the jamming transition\\
     Kumpei Shiraishi, Hideyuki Mizuno, Atsushi Ikeda\\
     Physical Review E *100*, 012606 (2019) [[[https://doi.org/10.1103/PhysRevE.100.012606][DOI]]] [[[https://arxiv.org/abs/1905.02966][arXiv]]]
