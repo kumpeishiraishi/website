@@ -1,5 +1,9 @@
 #+title: List of presentations
 
+* 2026
+- Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model\\
+  Kumpei Shiraishi, Emi Minamitani, Kang Kim\\
+  [[https://www.sanken.osaka-u.ac.jp/events-sympo/29th-sympo][The 29th SANKEN International Symposium]], Nakanoshima Center, University of Osaka, Japan (9 Jan 2026)
 * 2025
 - ガラス形成液体モデルにおける分子動力学シミュレーションの熱浴法の選択\\
   白石薫平、南谷英美、金鋼\\
