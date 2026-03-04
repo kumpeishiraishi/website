@@ -4,10 +4,10 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
 
 1. Topological descriptor for interpretable thermal transport prediction in amorphous graphene\\
    Kosuke Yamazaki, Takuma Shiga, Kumpei Shiraishi, Emi Minamitani\\
-   [[[https://arxiv.org/abs/2512.13112][arXiv]]]
+   Science and Technology of Advanced Materials: Methods *6*, 2623676 (2026) [[[https://doi.org/10.1080/27660400.2026.2623676][DOI]]] [[[https://arxiv.org/abs/2512.13112][arXiv]]]
 2. Critical fluctuations of elastic moduli in jammed solids\\
    Kumpei Shiraishi, Hideyuki Mizuno\\
-   [[[https://arxiv.org/abs/2512.03407][arXiv]]]
+   Soft Matter *22*, 2017 (2026) [[[https://doi.org/10.1039/D5SM01202C][DOI]]] [[[https://arxiv.org/abs/2512.03407][arXiv]]]
 3. Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model\\
    Kumpei Shiraishi, Emi Minamitani, Kang Kim\\
    [[[https://arxiv.org/abs/2509.12837][arXiv]]]
