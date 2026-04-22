@@ -10,7 +10,7 @@ Profiles: [[https://orcid.org/0000-0002-6998-2319][ORCID]] / [[https://scholar.g
    Soft Matter *22*, 2017 (2026) [[[https://doi.org/10.1039/D5SM01202C][DOI]]] [[[https://arxiv.org/abs/2512.03407][arXiv]]]
 3. Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model\\
    Kumpei Shiraishi, Emi Minamitani, Kang Kim\\
-   [[[https://arxiv.org/abs/2509.12837][arXiv]]]
+   The Journal of Chemical Physics *164*, 164501 (2026) [[[ https://doi.org/10.1063/5.0327041][DOI]]] [[[https://arxiv.org/abs/2509.12837][arXiv]]]
 4. Characterizing the Slow Dynamics of the Swap Monte Carlo Algorithm\\
    Kumpei Shiraishi, Ludovic Berthier\\
    The Journal of Physical Chemistry B *128*, 12279 (2024) [[[https://doi.org/10.1021/acs.jpcb.4c06702][DOI]]] [[[https://arxiv.org/abs/2409.13369][arXiv]]]
