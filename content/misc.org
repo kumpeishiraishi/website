@@ -11,6 +11,13 @@
 - [[https://kumpeishiraishi.github.io/MD_for_pedestrians/NVE][速度ベルレ法の導入]]\\
   これからMDを使う4年生に向けて、研究室内で話した内容のノート。
 - [[https://kumpeishiraishi.github.io/MD_for_pedestrians/cheatsheet][分子動力学法の各種時間発展アルゴリズムのチートシート]]
+- 2026年度夏学期 学問への扉「物理シミュレーション入門」演習（大阪大学1年生向けの少人数ゼミ）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/85aa81f83e607ce5f29d2e37a4a35532][Pythonプログラミング入門]]（テイラー展開、1次元ランダムウォーク、円周率推定、ロジスティック写像）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/8a27914d49568bdb709249f15f1c0103][1次元調和振動子の分子動力学法]]（速度ベルレ法、オイラー法、減衰振動）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/fb00ace8d31044d93af3c40d66d26d3a][2次元Lennard-Jones粒子系の分子動力学法]]（ムービー付きは[[https://colab.research.google.com/gist/kumpeishiraishi/89245eef3cd2e5c88285e3f2553004cb][こちら]]）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/8a725832adf74bab9613276706eff12f][運動方程式以外の微分方程式]]（ロトカ・ヴォルテラ方程式、SIRモデル）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/b7271e8ea673653bcbc8e8061501f1a5][モンテカルロ法]]（2次元イジング模型）
+  - [[https://colab.research.google.com/gist/kumpeishiraishi/4a858b1848556be9db7b1d44f9f4d96b][エージェントベースモデル]]（シェリングの分居モデル、ライフゲーム）
 # - Eigenで疎行列を扱う
 # - 過冷却液体の平衡化
 # - rsqrt
