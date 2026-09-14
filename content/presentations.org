@@ -1,6 +1,9 @@
 #+title: List of presentations
 
 * 2026
+- 機械学習ポテンシャルを用いたナトリウムケイ酸塩ガラスの動的不均一性解析\\
+  白石薫平、野沢陸太、南谷英美\\
+  日本物理学会第81回年次大会、14pM1312-5、東京大学 駒場キャンパス（2026年9月14日）
 - Dynamical heterogeneities in sodium silicate melts at ab initio accuracy\\
   Kumpei Shiraishi\\
   [[https://ins.sjtu.edu.cn/seminars/2816][Seminar at the Institute of Natural Science]], Shanghai Jiao Tong University, Shanghai, China (2 Jun 2026)
