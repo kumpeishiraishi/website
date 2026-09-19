@@ -3,7 +3,7 @@
 # #+html: <div class="container">
 # #+html: <div class="column">
 - Position :: Assistant professor
-- Affiliation :: Institute of Scientific and Industrial Research (SANKEN), University of Osaka, Japan
+- Affiliation :: [[https://www.sanken.osaka-u.ac.jp][SANKEN (Institute of Scientific and Industrial Research)]], University of Osaka, Japan
 - Email :: [[mailto:kumpei.shiraishi@sanken.osaka-u.ac.jp][kumpei.shiraishi@sanken.osaka-u.ac.jp]]
 # #+html: </div>
 
